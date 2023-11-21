@@ -1,0 +1,16 @@
+.pic{
+    width: 120px;
+    border-radius: 5px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.picture{
+    width: 180px;
+    border-radius: 10px;
+    margin: 25px;
+    object-fit: contain;
+    cursor: pointer;
+}
+button{
+    margin: 10px;
+}
